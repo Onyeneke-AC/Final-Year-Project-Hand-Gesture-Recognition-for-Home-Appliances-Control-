@@ -6,6 +6,6 @@ The model was trained using a convolutional neural network (CNN) as seen in the 
 
 The model was tested using test_model and it achieved an accuracy of 99.48%.
 
-The entire project was further documented in Project Report and also presented using Project Presentation. 
+The entire project was further documented in Project Report and also presented using Onyeneke Anthony Proposal. 
 
 NB: The control was achieved via relay modules connected to the GPIO pins which either turn ON or OFF depending on the gesture index returned after image processing.
